@@ -4,4 +4,3 @@
 ## 目录
 - [解决node-sass下载失败的问题](./docs/vue-node-sass.md)
 - [vue-cli3按需引入element-ui](./docs/vue-element-ui.md)
-- [VS Code + ESLint配置](./docs/vscode-eslint.md)
